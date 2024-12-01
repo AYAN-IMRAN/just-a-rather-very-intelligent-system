@@ -1,5 +1,5 @@
 
-# Jarvis AI Virtual Assistant** 🤖💻
+# Jarvis AI Virtual Assistant🤖💻
 
 ## 👋 **About Me**
 Hi there! I'm **Ayan Imran**, a passionate **AI Chatbot & Web Developer**. Welcome to my project where I build a state-of-the-art **AI Virtual Assistant**, just like **Alexa** or **Google Assistant**. This project is a part of my Python journey, and I'm excited to share it with you! 🚀
@@ -115,8 +115,3 @@ This project is a **mega milestone** in my Python development journey. It showca
 - 🧑‍💻 **Contributions** are welcome! If you want to improve the assistant, feel free to fork the repo and create a pull request.
 - 🚀 **Issues**: If you find any bugs or have feature requests, please open an issue.
 - 🎉 **Stars** are always appreciated!
-
----
-
-Thank you for checking out my project. I hope you enjoy using **Jarvis AI Virtual Assistant**! 💫
-```
